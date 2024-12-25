@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\CoffeeSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24F3BC71-946A-4BAE-B56E-C028CF49C3BA}|Amounttest\\Amounttest.csproj|c:\\users\\hp\\source\\repos\\coffeesystem\\amounttest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F3BC71-946A-4BAE-B56E-C028CF49C3BA}|Amounttest\\Amounttest.csproj|solutionrelative:amounttest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FCBC5F-40C7-4B7B-8DFF-BD089BD292D4}|CoffeeSystem\\CoffeeSystem.csproj|c:\\users\\hp\\source\\repos\\coffeesystem\\coffeesystem\\coffeeshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07FCBC5F-40C7-4B7B-8DFF-BD089BD292D4}|CoffeeSystem\\CoffeeSystem.csproj|solutionrelative:coffeesystem\\coffeeshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FCBC5F-40C7-4B7B-8DFF-BD089BD292D4}|CoffeeSystem\\CoffeeSystem.csproj|c:\\users\\hp\\source\\repos\\coffeesystem\\coffeesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07FCBC5F-40C7-4B7B-8DFF-BD089BD292D4}|CoffeeSystem\\CoffeeSystem.csproj|solutionrelative:coffeesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CoffeeSystem\\Amounttest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Amounttest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CoffeeSystem\\Amounttest\\UnitTest1.cs",
+              "RelativeToolTip": "Amounttest\\UnitTest1.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:07:27.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Coffeeshop.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CoffeeSystem\\CoffeeSystem\\Coffeeshop.cs",
+              "RelativeDocumentMoniker": "CoffeeSystem\\Coffeeshop.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CoffeeSystem\\CoffeeSystem\\Coffeeshop.cs",
+              "RelativeToolTip": "CoffeeSystem\\Coffeeshop.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAmwEUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T20:22:59.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\CoffeeSystem\\CoffeeSystem\\Program.cs",
+              "RelativeDocumentMoniker": "CoffeeSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\CoffeeSystem\\CoffeeSystem\\Program.cs",
+              "RelativeToolTip": "CoffeeSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T20:20:50.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
